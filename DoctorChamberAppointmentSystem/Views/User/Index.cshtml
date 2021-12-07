@@ -1,0 +1,62 @@
+﻿@model DoctorChamberAppointmentMangementSystem.Models.ViewModel.LoginViewModel
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Login</h2>
+
+<link href="~/Content/Login.css" rel="stylesheet" />
+<link href="~/Content/User.css" rel="stylesheet" />
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+
+    <div class="container">
+        <div align="center">
+            <form id="login-form">
+                <div style="color:rgb(142,2,2)">
+
+                </div>
+                <div class="logo">
+
+                </div>
+                <div class="login-block">
+                    <table>
+                        <tr>
+
+                            <td>
+                                <input type="text" id="UserName" name="UserName" placeholder="username " data-val="true" required="" />
+                              
+                            </td>
+                        </tr>
+                        <tr>
+
+                            <td>
+                                <input type="password" id="Password" name="Password" placeholder="password" data-val="true" required="" />
+                              
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><button>Login</button></td>
+
+
+
+                        </tr>
+                    </table>
+                </div>
+            </form>
+
+        </div>
+
+
+    </div>
+}
+    <script src="~/Scripts/jquery-3.0.0.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>

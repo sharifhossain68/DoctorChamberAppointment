@@ -1,0 +1,76 @@
+﻿@{
+    ViewBag.Title = "Registration";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<link href="~/Content/DoctorRegForm.css" rel="stylesheet" />
+
+<h2>Registration</h2>
+<style>
+    input {
+        padding: 5px;
+        border: 1px solid #A5A5A5;
+    }
+
+        input.ng-dirty.ng-invalid {
+            border: 1px solid red;
+            background-color: rgb(255, 244, 244);
+        }
+
+    .error {
+        color: red;
+    }
+</style>
+
+<div class="container register-form">
+    <div class="form">
+        <div class="note">
+            <p>Doctor Registration Form.</p>
+        </div>
+        <div class="form-content" ng-controller="StudentController">
+            <form novalidate name="f1" ng-submit="Student_Insert(student)">
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <input type="text" ng-model="student.Name" name="sName" ng-class="submitted?'ng-dirty':''" required autofocus placeholder="Full Name *" class="form-control" />
+                            <span class="help-block" ng-show="(f1.sName.$dirty || submitted) && f1.sName.$error.required">Please enter your name</span>
+                        </div>
+                        <div class="form-group">
+                           <select>
+                               <option value="-1">Select Gender</option>
+                               <option value="Male">Male</option>
+                               <option value="Female">Female</option>
+                           </select>
+                            <span ng-show="(f1.sFatherName.$dirty || submitted) && f1.sFatherName.$error.required" class="error">Please enter your  Father Name</span>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <input type="text" ng-model="student.Email" name="sEmail" ng-class="submitted?'ng-dirty':''" required autofocus placeholder="Email *" class="form-control" />
+                            <span ng-show="(f1.sEmail.$dirty || submitted) && f1.sEmail.$error.required" class="error">Please enter your Email</span>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" ng-model="student.MobileNo" name="sMobileNo" ng-class="submitted?'ng-dirty':''" required autofocus placeholder="Phone No. *" class="form-control" />
+                            <span ng-show="(f1.sMobileNo.$dirty || submitted) && f1.sMobileNo.$error.required" class="error">Please enter your Mobile No</span>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <input type="text" ng-model="student.Address" name="sAddress" ng-class="submitted?'ng-dirty':''" required autofocus placeholder="Address *" class="form-control" />
+                            <span ng-show="(f1.sAddress.$dirty || submitted) && f1.sAddress.$error.required" class="error">Please enter your sAddress</span>
+
+                        </div>
+                    </div>
+                </div>
+                <div align="center">
+                    <input type="submit" class=" btnSubmit" value="Submit" ng-disabled="f1.$invalid" />
+                </div>
+
+            </form>
+
+        </div>
+
+    </div>
+
+</div>

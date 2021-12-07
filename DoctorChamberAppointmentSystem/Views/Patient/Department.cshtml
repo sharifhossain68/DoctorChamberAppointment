@@ -1,0 +1,77 @@
+﻿@model IEnumerable<DoctorChamberAppointmentMangementSystem.Models.ViewModel.DepartmentVM>
+
+@{
+    ViewBag.Title = "Department";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+
+
+<h2>Department</h2>
+
+
+
+
+   
+    <table align="center">
+        <tr>
+            <td >
+                <div class="container container-fluid text-center">
+                    <div class="">
+                        @foreach (var item in Model)
+                        {
+
+                            <div class="col-lg-8 col-sm-8">
+                                <div class="col-lg-2 col-sm-2 text-center dl-horizontal">
+                                    @if (item.Name == "Cardiology")
+                                    {
+                                        @Html.ActionLink(item.Name, "DoctorList", new { item.Name })
+                                    
+                                        <img src="~/Image/Cardology2.png" style="height:100px;width:100px;" />
+
+                                          <a href="/Patient/DoctorList"></a>   
+                                    }
+                                    else if (item.Name == "Dermatology")
+                                    {
+                                        @Html.ActionLink(item.Name, "DoctorList", new { item.Name })
+
+                                        <a href="/Patient/DoctorList"><img src="~/Image/Dermology.png" style="height:100px;width:100px;" /></a>  
+                                    }
+                                    else if (item.Name == "Gastroenterology")
+                                    {
+                                        @Html.ActionLink(item.Name, "DoctorList", new { item.Name })
+
+                                        <a href="/Patient/DoctorList"><img src="~/Image/gastroscopy.png" style="height:100px;width:100px;" /></a> 
+                                    }
+                                    else if (item.Name == "Medicine")
+                                    {
+                                        @Html.ActionLink(item.Name, "DoctorList", new { item.Name })
+
+                                        <a href="/Patient/DoctorList"><img src="~/Image/pill.png" style="height:100px;width:100px;" /></a>
+                                    }
+                                    else if (item.Name == "Orthopaedics")
+                                    {
+                                        @Html.ActionLink(item.Name, "DoctorList", new { item.Name })
+
+                                         <a href="/Patient/DoctorList"><img src="~/Image/orthopedic.png" style="height:100px;width:100px;" /></a> 
+                                    }
+                                    else if (item.Name == "Dental")
+                                    {
+                                        @Html.ActionLink(item.Name, "DoctorList", new { item.Name })
+
+                                        <a href="/Patient/DoctorList"><img src="~/Image/Dental.png" style="height:100px;width:100px;" /></a>  
+                                    }
+                                </div>
+
+                            </div>
+                        }
+                    </div>
+                </div>
+            </td>
+        </tr>
+    </table>
+
+
+

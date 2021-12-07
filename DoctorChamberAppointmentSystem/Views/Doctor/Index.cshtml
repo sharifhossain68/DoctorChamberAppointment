@@ -1,0 +1,279 @@
+﻿@model DoctorChamberAppointmentMangementSystem.Models.ViewModel.DoctorVM
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+<link href="~/Content/DoctorRegForm.css" rel="stylesheet" />
+<style>
+
+
+</style>
+
+
+@using (Html.BeginForm("Index", "Doctor", FormMethod.Post, new { enctype = "multipart/form-data" })) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+    
+
+    <div class="container register-form">
+        <div class="form">
+            <div class="note">
+                <p>This is a simpleRegister Form made using Boostrap.</p>
+            </div>
+            <div class="form-content">
+                <div class="row">
+                    <span style="color:red">@ViewBag.Message</span>
+                    <span style="color:green">@ViewBag.Success </span>
+                    <span style="color:red">@ViewBag.Error </span>
+                </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <div class="editor-field">
+                                    @Html.TextBoxFor(model => model.Name, new { @class = "form-control", placeholder = " Full Name *" } )
+                                    @Html.ValidationMessageFor(model => model.Name)
+                                </div>
+                            </div>
+                            <div class="form-group">
+
+                                <div class="editor-field">
+                                    <label>Gender</label>&nbsp;&nbsp;&nbsp;
+                                    @Html.RadioButtonFor(model => model.Gender,"Male")Male
+                                    @Html.RadioButtonFor(model => model.Gender,"Female")Female
+
+                                    @Html.ValidationMessageFor(model => model.Gender)
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="editor-field">
+                                    @Html.TextBoxFor(model => model.MedicalName, new { @class = "form-control", placeholder = "Medical Name *" })
+                                    @Html.ValidationMessageFor(model => model.MedicalName)
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <div class="editor-field">
+                                    @Html.DropDownListFor(model => model.Department, new List<SelectListItem>{
+                            new SelectListItem{Text="Cardiology" , Value="Cardiology" },
+                            new SelectListItem{Text="Dental" , Value="Dental" },
+                            new SelectListItem{Text="Dermatology" , Value="Dermatology" },
+                            new SelectListItem{Text="Gastroenterology" , Value="Gastroenterology" },
+                            new SelectListItem{Text="Medicine" , Value="Medicine" },
+                            new SelectListItem{Text="Orthopaedics" , Value="Orthopaedics" },
+
+
+                       }, "---Select Department ---", new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.Department)
+                                </div>
+                            </div>
+
+
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <div class="editor-field">
+                                    @Html.DropDownListFor(model => model.Degination, new List<SelectListItem>{
+                            new SelectListItem{Text="Head of Department" , Value="Head of Department" },
+                            new SelectListItem{Text="Professor" , Value="Professor" },
+                            new SelectListItem{Text="Associate Professor" , Value="Associate Professor" },
+                            new SelectListItem{Text="Consultant" , Value="Consultant" },
+
+
+
+                       }, "---Select Desination ---", new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.Degination)
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="editor-field">
+                                    @Html.DropDownListFor(model => model.Speciality, new List<SelectListItem>{
+                           new SelectListItem{Text="Allergy &amp; Immunology",Value="Allergy &amp; Immunology"},
+   new SelectListItem{Text="Anesthesia",Value="Anesthesia"},
+    new SelectListItem{Text="Cardiology (Heart, Cardiac Surgery, Cardiovascular, Hypertension, Blood Pressure)",Value="Cardiology (Heart, Cardiac Surgery, Cardiovascular, Hypertension, Blood Pressure)"},
+     new SelectListItem{Text="Colorectal Surgery (Surgery of Anal Canal, Rectum, etc.)",Value="Colorectal Surgery (Surgery of Anal Canal, Rectum, etc.)"},
+     new SelectListItem{Text="Dentistry (Dental, Orthodontics, Maxillofacial Surgery, Scaling)",Value="Dentistry (Dental, Orthodontics, Maxillofacial Surgery, Scaling)"},
+     new SelectListItem{Text="Dermatology (Skin, Venereology, Sexual, Hair, Allergy)",Value="Dermatology (Skin, Venereology, Sexual, Hair, Allergy)"},
+    new SelectListItem{Text="Endocrinology (Diabetes, Hormones, Thyroid, etc.)",Value="Endocrinology (Diabetes, Hormones, Thyroid, etc.)"},
+     new SelectListItem{Text="ENT (Ear, Nose &amp; Throat, Otorhinolaryngology)",Value="ENT (Ear, Nose &amp; Throat, Otorhinolaryngology)"},
+    new SelectListItem{Text="Gastroenterology (Stomach, Pancreas and Intestine)",Value="Gastroenterology (Stomach, Pancreas and Intestine)"},
+     new SelectListItem{Text="General Physician (All or any common diseases and health issues)",Value="General Physician (All or any common diseases and health issues)"},
+    new SelectListItem{Text="General Surgery (Incision, Operation)",Value="General Surgery (Incision, Operation)"},
+    new SelectListItem{Text="Gynaecologic Oncology (Cancer of Female Reproductive System)",Value="Gynaecologic Oncology (Cancer of Female Reproductive System)"},
+     new SelectListItem{Text="Gynaecology and Obstetrics (Pregnancy, Menstrual, Uterus, Female)",Value="Gynaecology and Obstetrics (Pregnancy, Menstrual, Uterus, Female)"},
+    new SelectListItem{Text="Haematology (Blood related diseases)",Value="Haematology (Blood related diseases)"},
+     new SelectListItem{Text="Hepato-Biliary- Pancreatic Surgery",Value="Hepato-Biliary- Pancreatic Surgery"},
+    new SelectListItem{Text="Hepatology (Liver, Gallbladder, Biliary system)",Value="Hepatology (Liver, Gallbladder, Biliary system)"},
+    new SelectListItem{Text="Infectious Diseases",Value="Infectious Diseases"},
+    new SelectListItem{Text="Infertility",Value="Infertility"},
+     new SelectListItem{Text="Medicine (All Diseases of Adults)",Value="Medicine (All Diseases of Adults)"},
+    new SelectListItem{Text="Neonatology (New Born Issues)",Value="Neonatology (New Born Issues)"},
+    new SelectListItem{Text="Nephrology (Kidney, Ureter, Urinary Bladder)",Value="Nephrology (Kidney, Ureter, Urinary Bladder)"},
+     new SelectListItem{Text="Neuromedicine (Brain, Spinal Cord, Nerve)",Value="Neuromedicine (Brain, Spinal Cord, Nerve)"},
+    new SelectListItem{Text="Neurosurgery (Surgery of Brain, Spinal Cord and Nerve)",Value="Neurosurgery (Surgery of Brain, Spinal Cord and Nerve)"},
+    new SelectListItem{Text="Nutritionist (Food, Diet, Weight Management)",Value="Nutritionist (Food, Diet, Weight Management)"},
+     new SelectListItem{Text="Oncology (Cancer)",Value="Oncology (Cancer)"},
+     new SelectListItem{Text="Ophthalmology (Eye, Vision, Cataracts, etc.)",Value="Ophthalmology (Eye, Vision, Cataracts, etc.)"},
+    new SelectListItem{Text="Orthopaedics (Bone, Joint, Fractures)",Value="Orthopaedics (Bone, Joint, Fractures)"},
+     new SelectListItem{Text="Other Speciality (not mentioned in the list)",Value="Other Speciality (not mentioned in the list)"},
+     new SelectListItem{Text="Paediatric Surgery (Surgery for Children)",Value="Paediatric Surgery (Surgery for Children)"},
+    new SelectListItem{Text="Paediatrics (Child or Infant any disease)",Value="Paediatrics (Child or Infant any disease)"},
+     new SelectListItem{Text="Pain Management",Value="Pain Management"},
+    new SelectListItem{Text="Physical Medicine (Paralysis, Pain Management)",Value="Physical Medicine (Paralysis, Pain Management)"},
+     new SelectListItem{Text="Physiotherapy",Value="Physiotherapy"},
+    new SelectListItem{Text="Plastic Surgery, Reconstruction or Cosmetic Surgery",Value="Plastic Surgery, Reconstruction or Cosmetic Surgery"},
+    new SelectListItem{Text="Psychiatry (Mental Health, Drug Abuse, Depression, etc.)",Value="Psychiatry (Mental Health, Drug Abuse, Depression, etc.)"},
+     new SelectListItem{Text="Respiratory Medicine (Pulmonary, Lung Diseases, Bronchitis etc.)",Value="Respiratory Medicine (Pulmonary, Lung Diseases, Bronchitis etc.)"},
+     new SelectListItem{Text="Rheumatology (Arthritis, Joint, Soft Tissue problems)",Value="Rheumatology (Arthritis, Joint, Soft Tissue problems)"},
+     new SelectListItem{Text="Sex Specialist(Venereology)",Value="Sex Specialist(Venereology)"},
+     new SelectListItem{Text="Speech and Language Therapy",Value="Speech and Language Therapy"},
+     new SelectListItem{Text="Thoracic Surgery (Surgery in Chest, Lung, etc.)",Value="Thoracic Surgery (Surgery in Chest, Lung, etc.)"},
+     new SelectListItem{Text="Urology (Surgery for Kidney, Ureter or Urinary Bladder)",Value="Urology (Surgery for Kidney, Ureter or Urinary Bladder)"},
+    new SelectListItem{Text="Vascular Surgery (e.g. Surgery of Blood Vessels)",Value="Vascular Surgery (e.g. Surgery of Blood Vessels)"},
+
+
+
+                       }, "---Select Speciality ---", new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.Speciality)
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="editor-field">
+                                    @Html.TextAreaFor(model => model.InstitutionOfDegree, new { @class = "form-control", placeholder = "(Detail of the degree, institute and other specification as to appear on the profile) *" })
+                                    @Html.ValidationMessageFor(model => model.InstitutionOfDegree)
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="editor-field">
+                                    @Html.LabelFor(model => model.PhotoPath)
+                                    <input type="file" id="fileOrImage" name="UploadOfFile" value="Choose File" />
+                                    @Html.ValidationMessageFor(model => model.PhotoPath)
+                                </div>
+                            </div>
+                       
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+
+                                <div class="editor-field">
+                                    @Html.TextAreaFor(model => model.ChamberOfAddress, 2, 10, new { @class = "form-control", placeholder = "Chamber Of Address*" })
+                                    @Html.ValidationMessageFor(model => model.ChamberOfAddress)
+                                </div>
+                                <div class="editor-field">
+                                    @Html.TextAreaFor(model => model.Description, 2, 10, new { @class = "form-control", placeholder = "(Detail of the specialties, experiences and expertise as to appear on the profile) *" })
+                                    @Html.ValidationMessageFor(model => model.Description)
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="editor-field">
+                                    @Html.TextBoxFor(model => model.MobileNo, new { @class = "form-control", placeholder = "Mobile No.*" })
+                                    @Html.ValidationMessageFor(model => model.MobileNo)
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="editor-field">
+                                    @Html.TextBoxFor(model => model.Email, new { @class = "form-control", placeholder = "Email*" })
+                                    @Html.ValidationMessageFor(model => model.Email)
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="editor-field">
+                                    @Html.TextBoxFor(model => model.Fees, new { @class = "form-control", placeholder = "Fees*" })
+                                    @Html.ValidationMessageFor(model => model.Fees)
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <div class="editor-field">
+                                    @Html.TextBoxFor(model => model.BMDCRegNo, new { @class = "form-control", placeholder = "BMDC Reg No.*" })
+                                    @Html.ValidationMessageFor(model => model.BMDCRegNo)
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.StartTime)
+                                <div>
+                                    <table>
+                                        <tr>
+                                            <td>
+                                                @Html.TextBoxFor(model => model.StartTime, new { @class = "form-control", PlaceHolder = " : " })
+                                            </td>
+                                            <td style="width:25px;"></td>
+                                            <td>
+                                                @Html.RadioButtonFor(model => model.StartAmPm, "AM") AM   @Html.RadioButtonFor(model => model.StartAmPm, "PM") PM
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                @Html.ValidationMessageFor(model => model.StartTime)
+                                            </td>
+                                            <td style="width:25px;"></td>
+                                            <td>
+                                                @Html.ValidationMessageFor(model => model.StartAmPm)
+                                            </td>
+                                        </tr>
+                                    </table>
+
+
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.EndTime)
+                                <div>
+                                    <table>
+                                        <tr>
+                                            <td>
+                                                @Html.TextBoxFor(model => model.EndTime, new { @class = "form-control ", PlaceHolder = " : " })
+                                            </td>
+                                            <td style="width:25px;"></td>
+                                            <td>
+                                                @Html.RadioButtonFor(model => model.EndAmPm, "AM") AM   @Html.RadioButtonFor(model => model.EndAmPm, "PM") PM
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                @Html.ValidationMessageFor(model => model.EndTime)
+                                            </td>
+                                            <td style="width:25px;"></td>
+                                            <td>
+                                                @Html.ValidationMessageFor(model => model.EndAmPm)
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                     
+                    </div>
+
+                    <input type="submit" value="Submit" class="btnSubmit" />
+
+                </div>
+        </div>
+    </div>
+
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+<script src="~/Scripts/jquery-3.0.0.js"></script>
+<script src="~/Scripts/jquery.validate.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+<link href="~/Content/theme/jquery.datetimepicker.css" rel="stylesheet" />
+<script src="~/Scripts/jquery.datetimepicker.js"></script>
+<script type="text/javascript">
+
+    $(document).ready(function () {
+
+        $('#StartTime, #EndTime').datetimepicker({
+            datepicker: false,
+            format: "h:i"
+        });
+
+
+    })
+</script>

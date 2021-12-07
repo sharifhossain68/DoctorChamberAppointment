@@ -1,0 +1,60 @@
+﻿@model IEnumerable<DoctorChamberAppointmentMangementSystem.Models.Entity.Doctor>
+
+@{
+    ViewBag.Title = "DoctorList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<link href="~/Content/DoctorDetails.css" rel="stylesheet" />
+<h2>DoctorList</h2>
+
+@foreach (var item in Model)
+{
+    <div class="container">
+        <div class="jumbotron">
+            <div class="row">
+                <div class="col-md-4 col-xs-12 col-sm-6 col-lg-4">
+                    <img src="@Url.Content(item.UploadOfPhoto)" alt="stack photo" class="img" height="200" width="200"/>
+                   
+                </div>
+                <div class="col-md-8 col-xs-12 col-sm-6 col-lg-8">
+                    <div class="container" style="border-bottom:1px solid black">
+               
+                        <h2>@Html.DisplayFor(modelItem => item.Name)</h2>
+                    </div>
+                    <hr>
+                    <ul class="container details">
+                        <li><p><span class="glyphicon"></span> @Html.DisplayFor(modelItem => item.Speciality)@Html.DisplayFor(modelItem => item.InstitutionDegree)</p></li>
+                        <li><p><span class="glyphicon glyphicon-map-marker one" style="width:50px;"  ></span>@Html.DisplayFor(modelItem => item.MedicalName)</p> </li>
+
+                        
+                    </ul>
+                 </div>
+                <div class="col-md-8 col-xs-12 col-sm-6 col-lg-8">
+                    <div class="container" style="border-bottom:1px solid black">
+
+                        <h2>Chamber</h2>
+                    </div>
+                    <hr>
+                    <ul class="container details">
+                        <li><p><span class="glyphicon"></span> @Html.DisplayFor(modelItem => item.Speciality)@Html.DisplayFor(modelItem => item.Fees)</p></li>
+                        <li><p><span class="glyphicon glyphicon-map-marker one" style="width:50px;"></span>@Html.DisplayFor(modelItem => item.ChamberOfLocation)</p> </li>
+                        <li><span class=" glyphicon glyphicon-map-marker">New Appointment : @Html.DisplayFor(modelItem => item.Fees)</span></li>
+                    </ul>
+                </div>
+                <div class="form-group">
+                  @Html.ActionLink("View Profile", "DoctorProfile", new { id = item.DoctorId })
+                   
+                </div>
+            </div>
+     </div>
+ </div>
+
+
+}
+
+
+
+
+
+  

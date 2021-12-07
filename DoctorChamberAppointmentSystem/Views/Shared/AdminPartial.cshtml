@@ -1,0 +1,43 @@
+﻿<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<script src="~/Scripts/jquery-3.0.0.min.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>
+
+<style>
+    .table {
+        margin-bottom: 0px;
+    }
+
+    table tr td {
+        border-bottom: 1px solid #dddddd;
+    }
+</style>
+<div class="container">
+
+    <div class="panel-group">
+
+
+        <div class="panel panel-primary">
+            <div class="panel-heading">Admin</div>
+            <div class="panel-body">
+                <table class="table">
+                    <tr>
+                        <td>
+                            @Html.ActionLink("List of Patient", "PatientList", "Admin")
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            @Html.ActionLink("List of Doctor", "DoctorList", "Admin")
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            @Html.ActionLink("List of Appointment", "AppointmentList", "Admin")
+                        </td>
+                    </tr>
+
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

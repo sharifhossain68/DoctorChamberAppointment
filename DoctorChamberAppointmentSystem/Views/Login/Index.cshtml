@@ -1,0 +1,58 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+
+}
+<h2>Login Page</h2>
+<style>
+    input {
+        padding: 5px;
+        border: 1px solid #A5A5A5;
+    }
+
+        input.ng-dirty.ng-invalid {
+            border: 1px solid red;
+            background-color: rgb(255, 244, 244);
+        }
+
+    .error {
+        color: red;
+    }
+</style>
+<link href="~/Content/Login.css" rel="stylesheet" />
+<div ng-controller="UserLoginController" align="center">
+
+    <form novalidate name="f1" ng-submit="Login()">
+        <div style="color:rgb(142,2,2)">
+            {{Message}}
+        </div>
+        <div class="logo">
+
+        </div>
+        <div class="login-block">
+            <table ng-show="!IsLogedIn">
+                <tr>
+
+                    <td>
+                        <input type="text" ng-model="LoginData.UserName" id="username" name="cUserName" ng-class="Submitted?'ng-dirty':''" required autofocus placeholder="username" />
+                        <span class="error" ng-show="(f1.cUserName.$dirty || Submitted) && f1.cUserName.$error.required">Please enter your name</span>
+                    </td>
+                </tr>
+                <tr>
+
+                    <td>
+                        <input type="password" ng-model="LoginData.Password" id="password" name="cPassword" ng-class="Submitted?'ng-dirty':''" required autofocus />
+                        <span ng-show="(f1.cPassword.$dirty || Submitted) && f1.cPassword.$error.required" class="error">Please enter your paswword</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td><button>Submit</button></td>
+
+
+
+                </tr>
+            </table>
+        </div>
+    </form>
+</div>
+<script src="~/Scripts/AngularJsController/UserLoginController.js"></script>

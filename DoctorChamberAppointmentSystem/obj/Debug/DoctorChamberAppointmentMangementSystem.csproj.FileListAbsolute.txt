@@ -1,0 +1,348 @@
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.dll.config
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.pdb
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.SqlServer.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Newtonsoft.Json.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Net.Http.Formatting.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Helpers.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.WebHost.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Mvc.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Razor.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Deployment.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Razor.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.SqlServer.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Newtonsoft.Json.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Net.Http.Formatting.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Helpers.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.WebHost.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Mvc.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Razor.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Deployment.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Razor.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentSystem.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentSystem.pdb
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.Migrations.AddTable.resources
+E:\ASP.NET\BITM BATCH 40\My Project\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.csproj.GenerateResource.Cache
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.dll.config
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.dll
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.pdb
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.dll
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Newtonsoft.Json.dll
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Net.Http.Formatting.dll
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Helpers.dll
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.dll
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.WebHost.dll
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Mvc.dll
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Razor.dll
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.dll
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.xml
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Newtonsoft.Json.xml
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Net.Http.Formatting.xml
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Helpers.xml
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.xml
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.WebHost.xml
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Mvc.xml
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Razor.xml
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.xml
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentSystem.dll
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentSystem.pdb
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.csprojResolveAssemblyReference.cache
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.Migrations.AddTableLoginInitial.resources
+C:\Users\anupa\Desktop\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.csproj.GenerateResource.Cache
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.dll.config
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.dll
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.pdb
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.dll
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.SqlServer.dll
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Microsoft.Web.Infrastructure.dll
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Newtonsoft.Json.dll
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Net.Http.Formatting.dll
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Helpers.dll
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.dll
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.WebHost.dll
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Mvc.dll
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Razor.dll
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Deployment.dll
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.dll
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Razor.dll
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.xml
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.SqlServer.xml
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Newtonsoft.Json.xml
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Net.Http.Formatting.xml
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Helpers.xml
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.xml
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.WebHost.xml
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Mvc.xml
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Razor.xml
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.xml
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Deployment.xml
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Razor.xml
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.Migrations.AddTableLoginInitial.resources
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.csproj.GenerateResource.Cache
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentSystem.dll
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentSystem.pdb
+G:\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.csprojResolveAssemblyReference.cache
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.csprojResolveAssemblyReference.cache
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.Migrations.AddTableLoginInitial.resources
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.csproj.GenerateResource.Cache
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentSystem.dll
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.dll.config
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.dll
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.pdb
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.dll
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Newtonsoft.Json.dll
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Net.Http.Formatting.dll
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Helpers.dll
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.dll
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.WebHost.dll
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Mvc.dll
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Razor.dll
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.dll
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.xml
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Newtonsoft.Json.xml
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Net.Http.Formatting.xml
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Helpers.xml
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.xml
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.WebHost.xml
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Mvc.xml
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Razor.xml
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.xml
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentSystem.pdb
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.Migrations.ModelChanges.resources
+C:\Users\anupa\Desktop\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.Migrations.RegisterAdded.resources
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.dll.config
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.pdb
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.SqlServer.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Newtonsoft.Json.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Net.Http.Formatting.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Helpers.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.WebHost.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Mvc.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Razor.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Deployment.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Razor.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.SqlServer.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Newtonsoft.Json.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Net.Http.Formatting.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Helpers.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.WebHost.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Mvc.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Razor.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Deployment.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Razor.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.Migrations.ContriesLoginRegistersRoleAdded.resources
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.csproj.GenerateResource.Cache
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentSystem.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentSystem.pdb
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.csprojResolveAssemblyReference.cache
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.Migrations.RegisterChangByPropertyName.resources
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.dll.config
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.pdb
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.SqlServer.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Newtonsoft.Json.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Net.Http.Formatting.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Helpers.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.WebHost.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Mvc.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Razor.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Deployment.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Razor.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.SqlServer.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Newtonsoft.Json.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Net.Http.Formatting.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Helpers.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.WebHost.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Mvc.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Razor.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Deployment.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Razor.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.csprojResolveAssemblyReference.cache
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.Migrations.ContriesLoginRegistersRoleAdded.resources
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.Migrations.RegisterChangByPropertyName.resources
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.csproj.GenerateResource.Cache
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentSystem.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentSystem.pdb
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.dll.config
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.dll
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.pdb
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.dll
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.SqlServer.dll
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Newtonsoft.Json.dll
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Net.Http.Formatting.dll
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Helpers.dll
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.dll
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.WebHost.dll
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Mvc.dll
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Razor.dll
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Deployment.dll
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.dll
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Razor.dll
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.xml
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.SqlServer.xml
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Newtonsoft.Json.xml
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Net.Http.Formatting.xml
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Helpers.xml
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.xml
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.WebHost.xml
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Mvc.xml
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Razor.xml
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.xml
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Deployment.xml
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Razor.xml
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.Migrations.ContriesLoginRegistersRoleAdded.resources
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.Migrations.RegisterChangByPropertyName.resources
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.csproj.GenerateResource.Cache
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentSystem.dll
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentSystem.pdb
+E:\My Work\DCAM\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.csprojResolveAssemblyReference.cache
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.dll.config
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.pdb
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.SqlServer.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Newtonsoft.Json.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Net.Http.Formatting.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Helpers.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.WebHost.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Mvc.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Razor.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Deployment.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Razor.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.SqlServer.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Newtonsoft.Json.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Net.Http.Formatting.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Helpers.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.WebHost.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Mvc.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Razor.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Deployment.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Razor.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentSystem.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentSystem.pdb
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.csprojResolveAssemblyReference.cache
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.Migrations.AllTableAdded.resources
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.csproj.GenerateResource.Cache
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.dll.config
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.pdb
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.SqlServer.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Newtonsoft.Json.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Net.Http.Formatting.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Helpers.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.WebHost.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Mvc.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Razor.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Deployment.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Razor.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.SqlServer.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Newtonsoft.Json.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Net.Http.Formatting.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Helpers.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.WebHost.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Mvc.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Razor.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Deployment.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Razor.xml
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.Migrations.AllTableAdded.resources
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.Migrations.PatientGenderLength.resources
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.csproj.GenerateResource.Cache
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentSystem.dll
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentSystem.pdb
+E:\ASP.NET\BITM BATCH 40\My Project\DCAMS\New folder\New folder\DCAMS\Doctor\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.csprojResolveAssemblyReference.cache
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.dll.config
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.dll
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\DoctorChamberAppointmentSystem.pdb
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.dll
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.SqlServer.dll
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Microsoft.Web.Infrastructure.dll
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Newtonsoft.Json.dll
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Net.Http.Formatting.dll
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Helpers.dll
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.dll
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.WebHost.dll
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Mvc.dll
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Razor.dll
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Deployment.dll
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.dll
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Razor.dll
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.xml
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\EntityFramework.SqlServer.xml
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\Newtonsoft.Json.xml
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Net.Http.Formatting.xml
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Helpers.xml
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.xml
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Http.WebHost.xml
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Mvc.xml
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.Razor.xml
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.xml
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Deployment.xml
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\bin\System.Web.WebPages.Razor.xml
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.csproj.AssemblyReference.cache
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.Migrations.AllTableAdded.resources
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.Migrations.PatientGenderLength.resources
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.csproj.GenerateResource.cache
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.csproj.CoreCompileInputs.cache
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentMangementSystem.csproj.CopyComplete
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentSystem.dll
+F:\FinalDOC\DoctorChamberAppointmentSystem\DoctorChamberAppointmentSystem\obj\Debug\DoctorChamberAppointmentSystem.pdb

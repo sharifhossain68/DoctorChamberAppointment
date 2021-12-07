@@ -1,0 +1,105 @@
+﻿@{
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+@*<!DOCTYPE html>
+
+<html>
+<head>*@
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Registration</title>
+
+
+
+   <style>
+    input {
+        padding: 5px;
+        border: 1px solid #A5A5A5;
+    }
+
+        input.ng-dirty.ng-invalid {
+            border: 1px solid red;
+            background-color: rgb(255, 244, 244);
+        }
+
+    .error {
+        color: red;
+    }
+</style>
+
+<!------ Include the above in your HEAD tag ---------->
+<div class="container" align="center" >
+    <div class="row" align="center">
+        <div class="col-xs-12 col-sm-8 col-md-6 col-sm-offset-2 col-md-offset-3" ng-controller="RegistrationController">
+            <form name="f2" novalidate ng-submit="RegistrationDataInsert(register)" ng-init="GetCountries();GetRoles()">
+                <h2 class="text-center">Sign Up</h2>
+
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-6">
+                        <div class="form-group" ng-class="{ 'has-error': f2.rUserName.$dirty && f2.rUserName.$error.required }">
+
+                            <label for="username">User Name</label>
+                            <input type="text" ng-model="register.UserName" name="rUserName" id="username" class="form-control" required autofocus />
+                            <span ng-show="(f2.rUserName.$dirty|| submitted) && f2.rUserName.$error.required" class="help-block error">User name is required</span>
+
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-6">
+                        <div class="form-group" ng-class="{ 'has-error': f2.Email.$dirty && f2.Email.$error.required }">
+
+                            <label for="email">Email</label>
+                            <input type="text" ng-model="register.Email" name="rEmail" id="email" class="form-control" required autofocus />
+                            <span ng-show="(f2.rEmail.$dirty || submitted) && f2.rEmail.$error.required" class="help-block error">Email  is required</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group" ng-class="{ 'has-error': f2.rPassword.$dirty && f2.rPassword.$error.required }">
+                    <label for="password">Password</label>
+                    <input type="password" ng-model="register.Password" name="rPassword" id="password" class="form-control" required autofocus />
+                    <span ng-show="(f2.rPassword.$dirty || submitted) && f2.rPassword.$error.required" class="help-block error">Password is required</span>
+                </div>
+                <div class="form-group" ng-class="{ 'has-error': f2.rConfirmPassword.$dirty && f2.rConfirmPassword.$error.required }">
+                    <label for="confirmPassword">Confirm Password</label>
+                    <input type="password" ng-model="register.ConfirmPassword" name="rConfirmPassword" id="confirmPassword" class="form-control" required autofocus />
+                    <span ng-show="(f2.rConfirmPassword.$dirty || submitted) && f2.rConfirmPassword.$error.required" class="help-block error">Confirm password is required</span>
+                </div>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-6">
+                        <div class="form-group" ng-class="{ 'has-error': f2.rCountryId.$dirty && f2.rCountryId.$error.required }">
+                            <label>Country</label>
+                            <select ng-model="register.CountryId" class="form-control">
+                                <option value="">Select Country</option>
+                                <option ng-repeat=" data in Countries" value={{data.CountryId}}>{{data.CountryName}}</option>
+                            </select>
+                            <span ng-show="(f2.rCountryId.$dirty || submitted) && f2.rCountryId.$error.required" name="rCountryId" class="help-block error">Country is required</span>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-6">
+                        <div class="form-group" ng-class="{ 'has-error': f2.rCountryId.$dirty && f2.rCountryId.$error.required }">
+                            <label>Role Type </label>
+                            <select ng-model="register.RoleId" class="form-control">
+                                <option value="">Select Role Type</option>
+                                <option ng-repeat=" data in Roles" value={{data.RoleId}}>
+                                    {{data.RoleName}}
+                                </option>
+                            </select>
+                            <span name="rRoleId" ng-show="(f2.rRoleId.$dirty || submitted) && f2.rRoleId.$error.required" class="help-block error">Role type is required</span>
+                        </div>
+                    </div>
+                </div>
+           
+                <div class="row">
+                    <div class="col-xs-12 col-md-6"><input type="submit" value="Register" class="btn btn-primary btn-block btn-lg" tabindex="7" ng-disabled="f2.$invalid"></div>
+                    <div class="col-xs-12 col-md-6">@Html.ActionLink("Sign In", "Index", "User", new { @class = "btn btn-success btn-block btn-lg" }) </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
+</div>
+<script src="~/Scripts/AngularJsController/RegistrationController.js"></script>
+
+
+
+

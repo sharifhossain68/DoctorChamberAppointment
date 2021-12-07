@@ -1,0 +1,59 @@
+﻿@model DoctorChamberAppointmentMangementSystem.Models.Entity.Patient
+           @using DoctorChamberAppointmentMangementSystem.Models.ViewModel;
+
+@{
+    ViewBag.Title = "BookedDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    DoctorChamberAppointmentMangementSystem.Models.Entity.Doctor doctor = ViewBag.Doctor;
+    DoctorChamberAppointmentMangementSystem.Models.Entity.Patient aPatient = ViewBag.Patient;
+    DoctorChamberAppointmentMangementSystem.Models.Entity.Appointment aAppoint = ViewBag.Appiont;
+}
+
+<h2>BookedDetails</h2>
+
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<style>
+    .resultsheet {
+        width: 960px;
+        padding: 10px 70px;
+    }
+</style>
+
+<div class="resultsheet" style="text-align: center;">
+    <span style="font-size: 36px;">@doctor.ChamberOfLocation</span> <br />
+    <span style="font-size: 26px;"></span>
+    <hr style="border-style: double;" />
+</div>
+<div class="resultsheet">
+
+    <table style="width: 100%;">
+        <tr>
+            <td style="width: 200px;">Patient Name</td>
+            <td>@aPatient.PatientName</td>
+        </tr>
+        <tr>
+            <td>Doctor Name</td>
+            <td>@doctor.Name</td>
+        </tr>
+        <tr>
+            <td>Booked Serial</td>
+            <td>@aPatient.AppointmentSerialNo</td>
+        </tr>
+        <tr>
+            <td>Department</td>
+            <td>@doctor.Department</td>
+            <td>Appointment Time</td>
+            <td>@aAppoint.Time</td>
+        </tr>
+        <tr>
+           
+            <td>@ViewBag.Success</td>
+       
+        </tr>
+
+    </table>
+    @*<hr style="border: dot-dot-dash 1px black;" />*@
+
+
+</div>
+
